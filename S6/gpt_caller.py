@@ -13,12 +13,7 @@ class GPTCaller:
         )
 
         self.model = os.getenv("OPENAI_API_MODEL")
-
-        # Optional: custom headers if required by your environment
-        self.extra_headers = {
-            "ICI-Product-Key": "c623f5bda2f74a03924cbf42dfa2103f",
-            "x-use-exploreai-api-only": "True"
-        }
+       
 
     def query_gpt(self, chat_history, tools=None):
         try:
