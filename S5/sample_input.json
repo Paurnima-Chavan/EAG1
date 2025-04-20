@@ -1,0 +1,16 @@
+{
+  "subjects": [
+    {"name": "Math", "difficulty": 5, "exam_date": "2025-05-01"},
+    {"name": "History", "difficulty": 2, "exam_date": "2025-05-15"},
+    {"name": "Physics", "difficulty": 4, "exam_date": "2025-05-05"}
+  ],
+  "weekly_availability": {
+    "Monday": 3,
+    "Tuesday": 4,
+    "Wednesday": 4,
+    "Thursday": 3,
+    "Friday": 2,
+    "Saturday": 6,
+    "Sunday": 6
+  }
+}
