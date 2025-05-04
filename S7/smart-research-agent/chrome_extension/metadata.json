@@ -1,0 +1,327 @@
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_0",
+    "text": "Natural language processing - Wikipedia Jump to content From Wikipedia, the free encyclopedia Field of linguistics and computer science This article is about computer processing. For human brain processing, see"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_1",
+    "text": "Further information: History of natural language processing Natural language processing has its roots in the 1950s. [ 1 ] Already in 1950, Alan Turing published an article titled \" Computing"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_2",
+    "text": "[ 2 ] However, real progress was much slower, and after the ALPAC report in 1966, which found that ten years of research had failed to fulfill the expectations, funding"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_3",
+    "text": "successful work on natural language was demonstrated with a vocabulary of only twenty words, because that was all that would fit in a computer memory at the time. [ 4"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_4",
+    "text": "of chatterbots with Racter and Jabberwacky . An important development (that eventually led to the statistical turn in the 1990s) was the rising importance of quantitative evaluation in this period."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_5",
+    "text": "take advantage of existing multilingual textual corpora that had been produced by the Parliament of Canada and the European Union as a result of laws calling for the translation of"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_6",
+    "text": "a given amount of input data. However, there is an enormous amount of non-annotated data available (including, among other things, the entire content of the World Wide Web ), which"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_7",
+    "text": "results showing that such techniques [ 11 ] [ 12 ] can achieve state-of-the-art results in many natural language tasks, e.g., in language modeling [ 13 ] and parsing. ["
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_8",
+    "text": "common cases extracted from a corpus of texts, whereas the rule-based approach needs to provide rules for both rare cases and common ones equally. language models , produced by either"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_9",
+    "text": "parses. Statistical approach [ edit ] In the late 1980s and mid-1990s, the statistical approach ended a period of AI winter , which was caused by the inefficiencies of the"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_10",
+    "text": "translation . Common NLP tasks [ edit ] The following is a list of some of the most commonly researched tasks in natural language processing. Some of these tasks have"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_11",
+    "text": "other in a process termed coarticulation , so the conversion of the analog signal to discrete characters can be a very difficult process. Also, given that words in the same"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_12",
+    "text": "with its corresponding numerical token. These numerical tokens are then used in various deep learning methods. [ 25 ] For a language like English , this is fairly trivial, since"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_13",
+    "text": "of the morphemes. The difficulty of this task depends greatly on the complexity of the morphology ( i.e. , the structure of words) of the language being considered. English has"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_14",
+    "text": "(or sometimes derived) words to a base form (e.g., \"close\" will be the root for \"closed\", \"closing\", \"close\", \"closer\" etc.). Stemming yields similar results as lemmatization, but does so on"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_15",
+    "text": "sentence. The grammar for natural languages is ambiguous and typical sentences have multiple possible analyses: perhaps surprisingly, for a typical sentence there may be thousands of potential parses (most of"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_16",
+    "text": "as English, this information cannot aid in determining the type of named entity , and in any case, is often inaccurate or insufficient. For example, the first letter of a"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_17",
+    "text": "Document Frequency (TF-IDF) features, hand-generated features, or employ deep learning models designed to recognize both long-term and short-term dependencies in text sequences. The applications of sentiment analysis are diverse, extending"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_18",
+    "text": "whom). Semantic parsing Given a piece of text (typically a sentence), produce a formal representation of its semantics, either as a graph (e.g., in AMR parsing ) or in accordance"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_19",
+    "text": "resolution also includes identifying so-called \"bridging relationships\" involving referring expressions . For example, in a sentence such as \"He entered John's house through the front door\", \"the front door\" is"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_20",
+    "text": "classify them into arguments that are explicitly realized elsewhere in the text and those that are not specified, and resolve the former against the local text. A closely related task"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_21",
+    "text": "] Automatic summarization (text summarization) Produce a readable summary of a chunk of text. Often used to provide summaries of the text of a known type, such as research papers,"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_22",
+    "text": "from one human language to another. This is one of the most difficult problems, and is a member of a class of problems colloquially termed \" AI-complete \", i.e. requiring"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_23",
+    "text": "from computer databases or semantic intents into readable human language. Book generation Not an NLP task proper but an extension of natural language generation and other NLP tasks is the"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_24",
+    "text": "types. NLP-powered Document AI enables non-technical teams to quickly access information hidden in documents, for example, lawyers, business analysts and accountants. [ 40 ] Dialogue management Computer systems intended to"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_25",
+    "text": "CoNLL Shared Tasks can be observed: [ 46 ] Interest on increasingly abstract, \"cognitive\" aspects of natural language (1999\u20132001: shallow parsing, 2002\u201303: named entity recognition, 2006\u201309/2017\u201318: dependency syntax, 2004\u201305/2008\u201309 semantic"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_26",
+    "text": "[ 47 ] Cognitive science is the interdisciplinary, scientific study of the mind and its processes. [ 48 ] Cognitive linguistics is an interdisciplinary branch of linguistics, combining knowledge and"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_27",
+    "text": "big day\"), the author's intent to imply importance . The intent behind other usages, like in \"She is a big person\", will remain somewhat ambiguous to a person and a"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_28",
+    "text": "{RMM(token_{N})}={PMM(token_{N})}\\times {\\frac {1}{2d}}\\left(\\sum _{i=-d}^{d}{((PMM(token_{N})}\\times {PF(token_{N-i},token_{N},token_{N+i}))_{i}}\\right)} Where RMM is the relative measure of meaning token is any block of text, sentence, phrase or word N is the number of tokens being"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_29",
+    "text": "achieve explainability , e.g., under the notion of \"cognitive AI\". [ 57 ] Likewise, ideas of cognitive NLP are inherent to neural models multimodal NLP (although rarely made explicit) ["
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_30",
+    "text": "Truecasing Question answering Word2vec References [ edit ] ^ \"NLP\" . ^ Hutchins, J. (2005). \"The history of machine translation in a nutshell\" (PDF) . [ self-published source ] ^"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_31",
+    "text": "S2CID 30688575 . ^ Chomskyan linguistics encourages the investigation of \" corner cases \" that stress the limits of its theoretical models (comparable to pathological phenomena in mathematics), typically created"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_32",
+    "text": "Khudanpur, Sanjeev (26 September 2010). \"Recurrent neural network based language model\" (PDF) . Interspeech 2010 . pp. 1045\u2013 1048. doi : 10.21437/Interspeech.2010-343 . S2CID 17048224 . {{ cite book }}"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_33",
+    "text": "to Measure and Improve Quality of Diabetes Care: A Systematic Review\" . Journal of Diabetes Science and Technology . 15 (3): 553\u2013 560. doi : 10.1177/19322968211000831 . ISSN 1932-2968 ."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_34",
+    "text": "\"Deep Learning For NLP-ACL 2012 Tutorial\" . www.socher.org . Retrieved 2020-08-17 . This was an early Deep Learning tutorial at the ACL 2012 and met with both interest and (at"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_35",
+    "text": "Machine Learning\" . GyanSetu! . 2020-12-06 . Retrieved 2021-01-09 . ^ Kishorjit, N.; Vidya, Raj RK.; Nirmal, Y.; Sivaji, B. (2012). \"Manipuri Morpheme Identification\" (PDF) . Proceedings of the 3rd"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_36",
+    "text": ". hdl : 11585/523460 . ISSN 1533-5399 . S2CID 9561587 . ^ \"Argument Mining \u2013 IJCAI2016 Tutorial\" . www.i3s.unice.fr . Retrieved 2021-03-09 . ^ \"NLP Approaches to Computational Argumentation \u2013"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_37",
+    "text": "Robertson, Adi (2022-04-06). \"OpenAI's DALL-E AI image generator can now edit pictures, too\" . The Verge . Retrieved 2022-06-07 . ^ \"The Stanford Natural Language Processing Group\" . nlp.stanford.edu ."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_38",
+    "text": "an interdisciplinary field of researchers from Linguistics, psychology, neuroscience, philosophy, computer science, and anthropology that seek to understand the mind. ^ Robinson, Peter (2008). Handbook of Cognitive Linguistics and Second"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_39",
+    "text": "and Rules\" . W3C . Retrieved 2021-01-11 . ^ Socher, Richard; Karpathy, Andrej; Le, Quoc V.; Manning, Christopher D.; Ng, Andrew Y. (2014). \"Grounded Compositional Semantics for Finding and Describing"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_40",
+    "text": "Ewan Klein, and Edward Loper (2009). Natural Language Processing with Python . O'Reilly Media. ISBN 978-0-596-51649-9 . Kenna Hughes-Castleberry , \"A Murder Mystery Puzzle: The literary puzzle Cain's Jawbone ,"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_41",
+    "text": "Zakaria Kurdi (2017). Natural Language Processing and Computational Linguistics: semantics, discourse, and applications , Volume 2. ISTE-Wiley. ISBN 978-1848219212 . Christopher D. Manning, Prabhakar Raghavan, and Hinrich Sch\u00fctze (2008). Introduction"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_42",
+    "text": "Word-sense disambiguation Word-sense induction Text segmentation Compound-term processing Lemmatisation Lexical analysis Text chunking Stemming Sentence segmentation Word segmentation Automatic summarization Multi-document summarization Sentence extraction Text simplification Machine translation Computer-assisted Example-based"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "chunk_id": "en.wikipedia.org_43",
+    "text": "Natural Language Toolkit spaCy Portal : Language Authority control databases : National United States Japan Czech Republic Israel Retrieved from \" https://en.wikipedia.org/w/index.php?title=Natural_language_processing&oldid=1287144196 \" Categories : Natural language processing Computational fields"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_0",
+    "text": "The Future of AI Agents is Event-Driven | by Sean Falconer | Mar, 2025 | Medium Open in app Sign up Sign in Write Sign up Sign in The Future"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_1",
+    "text": "scaling agents and unlocking their full potential in modern enterprise systems. To fully understand why EDA is essential for the next wave of AI, we must first look at how"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_2",
+    "text": "being confined to single domains, these generative models were trained on vast, diverse datasets, giving them the ability to generalize across a variety of contexts. They could generate text, images,"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_3",
+    "text": "because it lacks access to the relevant user data. Without it, the response will either be generic or flat-out wrong. Compound AI Bridges the Gap To overcome these limitations, Compound"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_4",
+    "text": "to handle more complex or dynamic tasks where workflows cannot be exhaustively encoded. Encoding all possible execution paths manually is labor-intensive and ultimately limiting. The limitations of fixed-flow architectures have"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_5",
+    "text": "adapting to the situation at hand. That makes them ideal for tackling the kinds of unpredictable, interconnected problems businesses face today. Control logic, programmatic versus agentic Agents flip traditional control"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_6",
+    "text": "catch and correct mistakes, refine their reasoning, and ensure higher-quality outcomes. Reflection design pattern for agents Tool Use Expands Agent Capabilities Interfacing with external tools extends an agent\u2019s functionality, allowing"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_7",
+    "text": "agents by keeping their context focused on their specific tasks. A related technique is Mixture-of-Experts (MoE) , which employs specialized submodels, or \u201cexperts,\u201d within a single framework. Like multi-agent collaboration,"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_8",
+    "text": "agents can determine in real time what data they need, where to find it, and how to refine their queries based on the task at hand. This flexibility makes agentic"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_9",
+    "text": ". This complexity mirrors the challenges faced in designing microservices, where components must communicate efficiently without creating bottlenecks or rigid dependencies. Like microservices, agents must communicate efficiently and ensure their"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_10",
+    "text": "Everything lived in a single, tightly integrated codebase. While simple to build, monoliths became a nightmare as they grew. Scaling was a blunt instrument: you had to scale the entire"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_11",
+    "text": "workflows. It wasn\u2019t just a technical breakthrough; it was a survival strategy for systems under pressure. The Rise and Fall of Early Social Giants The rise and fall of early"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_12",
+    "text": "just about building smarter agents \u2014 it\u2019s about creating systems that can evolve and scale as the technology advances. With the AI stack and underlying models changing rapidly, rigid designs"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_13",
+    "text": "a \u201ccentral nervous system\u201d for data. It allows agents to broadcast events asynchronously, ensuring that information flows dynamically without creating rigid dependencies. This decoupling lets agents operate autonomously while integrating"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_14",
+    "text": "an event-driven system ensures that workflows stay loosely coupled, allowing each team to innovate independently. Application layers don\u2019t need to understand the AI\u2019s internals \u2014 they simply consume results when"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_15",
+    "text": "no data is lost in transit, which is critical for high-reliability workflows. Agents as event producers and consumers on a real-time streaming platform Data streaming enables the continuous flow of"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_16",
+    "text": "landscape is evolving rapidly, and architectures must evolve with it. And businesses are ready. A Forum Ventures survey found that 48% of senior IT leaders are prepared to integrate AI"
+  },
+  {
+    "url": "https://medium.com/@seanfalconer/the-future-of-ai-agents-is-event-driven-9e25124060d6",
+    "chunk_id": "medium.com_17",
+    "text": "to speech"
+  },
+  {
+    "url": "https://medium.com/@mikeykusuma/the-perfect-moment-doesnt-exist-dd3787305a22",
+    "chunk_id": "medium.com_0",
+    "text": "the perfect moment doesn\u2019t exist. | by Michael Yoshiya | May, 2025 | Medium Open in app Sign up Sign in Write Sign up Sign in the perfect moment doesn\u2019t"
+  },
+  {
+    "url": "https://medium.com/@mikeykusuma/the-perfect-moment-doesnt-exist-dd3787305a22",
+    "chunk_id": "medium.com_1",
+    "text": "becoming so focused on how things should be or done, but also forgetting to actually feel it all at once lively. Throughout my life, I have always questioned why things"
+  },
+  {
+    "url": "https://medium.com/@mikeykusuma/the-perfect-moment-doesnt-exist-dd3787305a22",
+    "chunk_id": "medium.com_2",
+    "text": "by Michael Yoshiya 2 Followers \u00b7 2 Following I've got magic in my hand, stars in my eyes. Follow No responses yet Help Status About Careers Press Blog Privacy Rules"
+  }
+]

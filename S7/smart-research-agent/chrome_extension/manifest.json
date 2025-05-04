@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Smart Research Agent",
+  "version": "1.0",
+  "description": "Search your web knowledge base and highlight results",
+  "permissions": ["tabs", "scripting", "storage"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  },
+  "background": {
+    "service_worker": "agent.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["action.js"]
+    }
+  ],
+  "web_accessible_resources": [
+  {
+    "resources": ["metadata.json","memory.js", "perception.js", "decision.js"],
+    "matches": ["<all_urls>"]
+  }
+]
+
+}

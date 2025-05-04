@@ -1,0 +1,7 @@
+openai==1.55.3
+faiss-cpu==1.7.4
+beautifulsoup4==4.12.3
+requests==2.31.0
+python-dotenv==1.0.1
+tqdm==4.66.2
+numpy==1.24.4
