@@ -32,22 +32,22 @@ cd smart-research-agent
 cd backend
 pip install -r requirements.txt
 
-# Then run:
+### Then run:
 python build_index.py
-
+  
 This script:
+  
+  - Loads a set of saved webpages (documents/)
+  
+  - Chunks them
+  
+   - Generates OpenAI embeddings
+  
+   - Builds a metadata.json file + faiss.index
+  
+   - Copy the generated metadata.json to chrome_extension/.
 
-Loads a set of saved webpages (documents/)
-
-Chunks them
-
-Generates OpenAI embeddings
-
-Builds a metadata.json file + faiss.index
-
-Copy the generated metadata.json to chrome_extension/.
-
-###2. Load Chrome Extension
+### 2. Load Chrome Extension
 Open Chrome → Extensions → "Manage Extensions"
 
 Enable Developer Mode
@@ -58,7 +58,7 @@ Select the chrome_extension/ folder
 
 Now the extension should appear in your browser toolbar!
 
-💡 How It Works
+## 💡 How It Works
 You visit and save some webpages
 
 You build a semantic index using build_index.py
@@ -69,5 +69,5 @@ Agent searches the FAISS index
 
 If a match is found:
 
-Opens that page
+- Opens that page
 
